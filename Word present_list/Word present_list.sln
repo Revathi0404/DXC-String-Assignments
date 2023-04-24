@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word present_list", "Word present_list\Word present_list.csproj", "{485794A1-2F5C-44FF-963B-F39A5B421289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{485794A1-2F5C-44FF-963B-F39A5B421289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485794A1-2F5C-44FF-963B-F39A5B421289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485794A1-2F5C-44FF-963B-F39A5B421289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485794A1-2F5C-44FF-963B-F39A5B421289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8269744C-2853-452F-9AB6-616E15E74C3A}
+	EndGlobalSection
+EndGlobal
